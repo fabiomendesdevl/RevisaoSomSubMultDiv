@@ -1,0 +1,14 @@
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\bin\Debug\net7.0\Revisoes.exe
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\bin\Debug\net7.0\Revisoes.deps.json
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\bin\Debug\net7.0\Revisoes.runtimeconfig.json
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\bin\Debug\net7.0\Revisoes.dll
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\bin\Debug\net7.0\Revisoes.pdb
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.dll
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\refint\Revisoes.dll
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.pdb
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\Revisoes.genruntimeconfig.cache
+C:\Users\fabio\Desktop\Nova pasta\Revisoes\Revisoes\obj\Debug\net7.0\ref\Revisoes.dll
